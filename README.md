@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pavels-v. My name is Pavel Sizikov, I'm from Russia
 - 👀 I’m interested in programming, music and computer games
-- 📫 How to reach me: viktorovichpavel@gmail.com or https://vk.com/freezer_09
+- 📫 How to reach me: viktorovichpavel@gmail.com or telegram:@Sizya
 - Working with Golang and Node.js, had some expirience with .NET
